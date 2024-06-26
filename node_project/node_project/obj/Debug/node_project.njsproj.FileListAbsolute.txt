@@ -1,0 +1,6 @@
+C:\Users\hamad\source\repos\node_project\obj\Debug\node_project.njsproj.AssemblyReference.cache
+C:\Users\hamad\source\repos\node_project\obj\Debug\node_project.njsproj.CoreCompileInputs.cache
+C:\Users\hamad\source\repos\node_project\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\hamad\OneDrive\سطح المكتب\node_project\node_project\obj\Debug\node_project.njsproj.AssemblyReference.cache
+C:\Users\hamad\OneDrive\سطح المكتب\node_project\node_project\obj\Debug\node_project.njsproj.CoreCompileInputs.cache
+C:\Users\hamad\OneDrive\سطح المكتب\node_project\node_project\bin\Microsoft.NodejsTools.WebRole.dll
